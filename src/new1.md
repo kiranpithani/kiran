@@ -1,5 +1,0 @@
-
-
-hi
-hellow
-welcome
