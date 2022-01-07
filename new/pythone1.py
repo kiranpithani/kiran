@@ -7,3 +7,4 @@ area=(length*height)//2
 #the floor division // rounds the reasult down to the nearest whole number
 
 print(f"the area of the triangle is (area)")
+#something 
